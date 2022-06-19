@@ -6,3 +6,11 @@ def write():
     f.write("Evan Tzavragos")
     f.close()
 write()
+
+
+def helloWorld():
+	print(‘Hello World’)
+
+
+helloWorld()
+
