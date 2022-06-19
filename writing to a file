@@ -8,3 +8,9 @@ def write():
 write()
 
 
+def helloWorld():
+	print(‘Hello World’)
+
+
+helloWorld()
+
